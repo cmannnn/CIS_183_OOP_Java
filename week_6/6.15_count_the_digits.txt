@@ -1,0 +1,8 @@
+Write a recursive method called digitCount() that takes a positive integer as a parameter and returns the number of digits in the integer. Hint: The number of digits increases by 1 whenever the input number is divided by 10.
+
+Ex: If the input is:
+
+345
+the method digitCount() returns and the program outputs:
+
+3
